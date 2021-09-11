@@ -1,0 +1,15 @@
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\bin\Debug\WpfSemana04.exe.config
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\bin\Debug\WpfSemana04.exe
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\bin\Debug\WpfSemana04.pdb
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04.csproj.AssemblyReference.cache
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\MainWindow.g.cs
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\App.g.cs
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04_MarkupCompile.cache
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04_MarkupCompile.lref
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\MainWindow.baml
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04.g.resources
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04.Properties.Resources.resources
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04.csproj.GenerateResource.cache
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04.csproj.CoreCompileInputs.cache
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04.exe
+C:\Users\Yeridi Crhis\source\repos\Lab03\WpfSemana04\obj\Debug\WpfSemana04.pdb
